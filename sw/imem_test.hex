@@ -1,0 +1,5 @@
+// Dedicated image for tb_imem (word addresses 0..3)
+11223344
+AABBCCDD
+00000000
+DEADBEEF
